@@ -68,7 +68,7 @@ function App() {
           xAxisName="xAxis"
           yAxisName="yAxis"
           valueMemberPath="Population"
-          showDefaultTooltip={true} //デフォルトのツールチップ表示機能
+          // showDefaultTooltip={true} //デフォルトのツールチップ表示機能
         />
         <IgrCalloutLayer
           name="series2"
